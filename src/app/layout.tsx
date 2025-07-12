@@ -5,20 +5,20 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Prazwol Gupta - Full-Stack Developer & ML Engineer",
-  description: "Professional portfolio of Prazwol Gupta, a Full-Stack Developer and Machine Learning Engineer specializing in scalable systems and AI-powered solutions.",
+  title: "Adarsh Gupta - Full-Stack Developer & ML Engineer",
+  description: "Professional portfolio of Adarsh Gupta, a Full-Stack Developer and Machine Learning Engineer specializing in scalable systems and AI-powered solutions.",
   keywords: "Full-Stack Developer, Machine Learning Engineer, Python, JavaScript, TypeScript, React, Next.js, AI, Portfolio",
-  authors: [{ name: "Prazwol Gupta" }],
-  creator: "Prazwol Gupta",
+  authors: [{ name: "Adarsh Gupta" }],
+  creator: "Adarsh Gupta",
   openGraph: {
-    title: "Prazwol Gupta - Full-Stack Developer & ML Engineer",
+    title: "Adarsh Gupta - Full-Stack Developer & ML Engineer",
     description: "Professional portfolio showcasing experience in building scalable systems and AI-powered solutions",
     type: "website",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Prazwol Gupta - Full-Stack Developer & ML Engineer",
+    title: "Adarsh Gupta - Full-Stack Developer & ML Engineer",
     description: "Professional portfolio showcasing experience in building scalable systems and AI-powered solutions",
   },
   robots: {

@@ -41,7 +41,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <Link href="/" className="text-xl font-bold text-gray-800">
-              Prazwol
+              Adarsh
             </Link>
           </div>
           

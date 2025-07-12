@@ -19,7 +19,7 @@ const Sidebar = () => {
           <div className="w-full h-80 bg-gray-200 rounded-lg overflow-hidden mb-6">
             <Image
               src="/profile.jpeg"
-              alt="Prazwol Gupta - Developer Portfolio"
+              alt="Adarsh Gupta - Developer Portfolio"
               width={320}
               height={320}
               className="w-full h-full object-cover"
@@ -80,7 +80,7 @@ const Sidebar = () => {
         isOpen={isPDFModalOpen}
         onClose={() => setIsPDFModalOpen(false)}
         pdfUrl="/resume.pdf"
-        fileName="Prazwol_Gupta_Resume.pdf"
+        fileName="Adarsh_Gupta_Resume.pdf"
       />
     </>
   );
