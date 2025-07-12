@@ -271,7 +271,7 @@ const Services = () => {
                 </p>
               </div>
               <div>
-                <h3 className="text-lg font-medium text-gray-900 mb-3">What's your typical project timeline?</h3>
+                <h3 className="text-lg font-medium text-gray-900 mb-3">What&apos;s your typical project timeline?</h3>
                 <p className="text-gray-600">
                   Project timelines vary based on complexity and scope. Simple projects might take 2-4 weeks, 
                   while complex AI systems or full-stack applications can take 2-6 months. I provide detailed 

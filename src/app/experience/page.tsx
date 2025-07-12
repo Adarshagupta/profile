@@ -339,7 +339,7 @@ const Experience = () => {
                 </ul>
               </div>
               <div className="flex flex-wrap gap-2">
-                <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Dean's List</span>
+                <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Dean&apos;s List</span>
                 <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Research Assistant</span>
                 <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Coding Club Member</span>
               </div>

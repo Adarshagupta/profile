@@ -1,5 +1,5 @@
 import React from 'react';
-import { CodeBracketIcon, ChartBarIcon, LinkIcon } from '@heroicons/react/24/outline';
+import { CodeBracketIcon, ChartBarIcon } from '@heroicons/react/24/outline';
 
 const Projects = () => {
   const projects = [

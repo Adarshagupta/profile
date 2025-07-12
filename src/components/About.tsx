@@ -20,9 +20,9 @@ const About = () => {
               About Me
             </h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              I'm a Computer Science student at IIT Guwahati with a passion for building scalable systems and AI solutions. 
-              Over the past few years, I've had the opportunity to work with several companies, from early-stage startups to 
-              established tech companies, where I've developed my skills in full-stack development and machine learning.
+              I&apos;m a Computer Science student at IIT Guwahati with a passion for building scalable systems and AI solutions. 
+              Over the past few years, I&apos;ve had the opportunity to work with several companies, from early-stage startups to 
+              established tech companies, where I&apos;ve developed my skills in full-stack development and machine learning.
             </p>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
               My experience spans backend infrastructure, microservices architecture, and machine learning model deployment. 

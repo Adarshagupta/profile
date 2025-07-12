@@ -5,7 +5,6 @@ import { motion } from 'framer-motion';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import Image from 'next/image';
-import StaggeredAnimation from '@/components/StaggeredAnimation';
 
 const Projects = () => {
   return (

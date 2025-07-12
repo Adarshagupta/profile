@@ -15,11 +15,11 @@ const Contact = () => {
           <section className="mb-16">
             <div className="max-w-4xl">
               <h1 className="text-5xl font-light text-gray-900 mb-6 leading-tight">
-                Let's Work Together
+                Let&apos;s Work Together
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed mb-12">
-                I'm always interested in new opportunities and collaborations. 
-                Let's discuss how we can bring your ideas to life.
+                I&apos;m always interested in new opportunities and collaborations. 
+                Let&apos;s discuss how we can bring your ideas to life.
               </p>
             </div>
           </section>
@@ -62,7 +62,7 @@ const Contact = () => {
                     id="subject"
                     name="subject"
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                    placeholder="What's this about?"
+                    placeholder="What&apos;s this about?"
                   />
                 </div>
                 <div>

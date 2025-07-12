@@ -70,7 +70,7 @@ const Header = () => {
               href="/contact"
               className="bg-green-500 text-white px-6 py-2 rounded-full text-sm font-medium hover:bg-green-600 transition-colors"
             >
-              LET'S TALK
+              LET&apos;S TALK
             </Link>
           </motion.div>
         </div>

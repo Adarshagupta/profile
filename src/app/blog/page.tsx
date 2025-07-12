@@ -33,7 +33,7 @@ const Blog = () => {
                 Building Scalable AI Systems: Lessons from Production
               </h3>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                After building and deploying several AI systems in production, I've learned valuable lessons 
+                After building and deploying several AI systems in production, I&apos;ve learned valuable lessons 
                 about scalability, reliability, and maintainability. In this article, I share practical insights 
                 on architecting AI systems that can handle real-world demands.
               </p>
@@ -160,7 +160,7 @@ const Blog = () => {
             <h2 className="text-3xl font-light text-gray-900 mb-8">Archive</h2>
             <div className="space-y-4">
               {[
-                { title: "Understanding Neural Networks: A Beginner's Guide", date: "November 28, 2024", category: "AI/ML" },
+                { title: "Understanding Neural Networks: A Beginner&apos;s Guide", date: "November 28, 2024", category: "AI/ML" },
                 { title: "Building Microservices with Node.js", date: "November 25, 2024", category: "Development" },
                 { title: "The Psychology of User Experience Design", date: "November 22, 2024", category: "Design" },
                 { title: "Deploying Applications with Docker and Kubernetes", date: "November 18, 2024", category: "DevOps" },

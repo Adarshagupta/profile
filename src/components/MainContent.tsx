@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 const MainContent = () => {
   return (
@@ -56,11 +57,12 @@ const MainContent = () => {
 
             {/* Fortexa Project */}
             <div className="group cursor-pointer">
-              <div className="bg-gray-100 rounded-2xl h-96 mb-8 overflow-hidden">
-                <img 
+              <div className="bg-gray-100 rounded-2xl h-96 mb-8 overflow-hidden relative">
+                <Image 
                   src="/fortexa.png" 
                   alt="Fortexa.tech - Crypto high frequency trading algorithm"
-                  className="w-full h-full object-cover"
+                  fill
+                  className="object-cover"
                 />
               </div>
               <h3 className="text-3xl font-light text-gray-900 mb-3">Fortexa.tech</h3>
@@ -80,7 +82,7 @@ const MainContent = () => {
       <section className="py-20 bg-gray-50">
         <div className="max-w-6xl mx-auto px-8">
           <p className="text-center text-gray-500 text-sm mb-12 uppercase tracking-wider font-medium">
-            COMPANIES I'VE WORKED WITH
+            COMPANIES I&apos;VE WORKED WITH
           </p>
           <div className="flex items-center justify-center space-x-16">
             <div className="text-gray-400 text-lg font-medium">Cartonify</div>
@@ -149,7 +151,7 @@ const MainContent = () => {
         <div className="max-w-6xl mx-auto px-8">
           <div className="bg-green-400 rounded-3xl p-16 text-center">
             <h2 className="text-5xl font-light text-gray-900 mb-4">Have an idea?</h2>
-            <p className="text-2xl text-gray-900">Let's bring it to life.</p>
+            <p className="text-2xl text-gray-900">Let&apos;s bring it to life.</p>
           </div>
         </div>
       </section>

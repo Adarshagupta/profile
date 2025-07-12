@@ -35,7 +35,7 @@ const About = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: 0.4 }}
               >
-                I'm a Computer Science student at IIT Guwahati with a passion for building 
+                I&apos;m a Computer Science student at IIT Guwahati with a passion for building 
                 innovative solutions that make a real impact.
               </motion.p>
             </div>
@@ -59,18 +59,18 @@ const About = () => {
                   <p>
                     My journey into technology began with curiosity about how things work. 
                     From dismantling gadgets as a kid to building complex AI systems today, 
-                    I've always been driven by the desire to create and innovate.
+                    I&apos;ve always been driven by the desire to create and innovate.
                   </p>
                   <p>
-                    Currently pursuing Computer Science at IIT Guwahati, I've had the privilege 
+                    Currently pursuing Computer Science at IIT Guwahati, I&apos;ve had the privilege 
                     of working with cutting-edge technologies and collaborating with brilliant minds. 
                     My experience spans from founding member roles at startups to contributing 
                     to AI research projects.
                   </p>
                   <p>
                     I believe in the power of technology to solve real-world problems. Whether 
-                    it's developing high-frequency trading algorithms or creating AI-powered 
-                    customer service solutions, I'm passionate about building systems that 
+                    it&apos;s developing high-frequency trading algorithms or creating AI-powered 
+                    customer service solutions, I&apos;m passionate about building systems that 
                     make a measurable difference.
                   </p>
                 </StaggeredAnimation>

@@ -3,7 +3,6 @@
 import React, { useState } from 'react';
 import { 
   EnvelopeIcon, 
-  PhoneIcon, 
   MapPinIcon,
   LinkIcon 
 } from '@heroicons/react/24/outline';
@@ -38,7 +37,7 @@ const Contact = () => {
             Get In Touch
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Feel free to reach out if you'd like to connect, collaborate, or just have a chat about technology
+            Feel free to reach out if you&apos;d like to connect, collaborate, or just have a chat about technology
           </p>
         </div>
 
